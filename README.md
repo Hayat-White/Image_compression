@@ -32,8 +32,10 @@ For this section we will run through the files provided and the image compressio
 
 ![Image Before Change](./art.PNG)
  - **Image Before Any changes**
+
 ![Image Converted Black and White](./art_converted.PNG)
  - **Image Converted to Black & White**
+
 ![Image Converted Back to Color](./art_reconverted_weighted.PNG)
  - **Image After color is added back to image**
 
