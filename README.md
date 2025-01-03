@@ -28,7 +28,14 @@ For this section we will run through the files provided and the image compressio
 | art.PNG                 |      549,584 bytes            |       72,323 bytes          |       127,556 bytes     |    76.7904 %   |   13.160 %  |
 | art1.PNG                |      463,613 bytes            |       68,240 bytes          |       114,610 bytes     |    75.2790 %   |   14.719 %  |
 
+## Image Example:
 
+![Image Before Change](./art.png)
+ - **Image Before Any changes**
+![Image Converted Black and White](./art_converted.png)
+ - **Image Converted to Black & White**
+![Image Converted Back to Color](./art_reconverted.png)
+ - **Image After color is added back to image**
 
 
 
