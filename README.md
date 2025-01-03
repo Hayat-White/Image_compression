@@ -16,7 +16,6 @@ To create unique color combinations for each color, I encoded 1 as red, 2 as gre
 For this section we will run through the files provided and the image compression as well as the time for each image.
 | File Name               | Size before Compression(SBC)  | Size After Compression(SAC) | Size After reconversion | Loss of Data % | SAC / SBC % |
 |-------------------------|-------------------------------|-----------------------------|-------------------------|----------------|-------------|
-|
 | file.PNG                |      4,544 bytes              |       2,142 bytes           |       3,701 bytes       |    18.5519 %   |   47.139 %  |
 | file1.PNG               |      4,524 bytes              |       2,128 bytes           |       3,675 bytes       |    18.7666 %   |   47.038 %  |
 | file2.PNG               |      4,525 bytes              |       2,129 bytes           |       3,677 bytes       |    18.7403 %   |   47.050 %  |
