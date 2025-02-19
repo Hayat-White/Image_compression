@@ -2,7 +2,7 @@
 
 ## Description
 This repository contains a project focused on **image compression**. The primary goal of this project is to explore methods for reducing the size of image files while preserving their visual quality as much as possible.
-This project was inspired by a want to reduce image file size with a simple technique. This project will then move to use more advanced techniques to recover more information and reduce overall loss. 
+This project was inspired by a want to reduce image file size with a simple technique to aid in analysis and transfer of files. This project will then move to use more advanced techniques to recover more information and reduce overall loss. 
 The goal of the simple compression is maximize speed and compression while the more advanced will be focused more on decreasing data loss and compression. Speed up methods will then be tested on both versions.
 This program's simple version is based on the idea that a color image has at least three values that represent how much red, green and blue
 is present inside a given pixel. For a simple compression, we will take those three values and convert them to one. After this point the value will indicate how bright a pixel is. This should theoretically take any file and reduce the size by 66% because we are removing **2 out of the 3** of the values. This functions as a great method for file reduction but the file also loses a significant amount of data.
