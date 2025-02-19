@@ -38,7 +38,7 @@ For this section we will run through the files provided and the image compressio
 
 ![Image Converted Back to Color](./art_reconverted_weighted.PNG)
  - **Image After color is added back to image**
- - **Even though loss of data is at 75.7904% the image appears roughly the same!**
+ - **Even though loss of data is at 75.7904% the image appears roughly the same with some noise!**
 
 Included in the repository are:
 - A collection of sample images for testing and experimentation.
